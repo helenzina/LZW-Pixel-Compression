@@ -84,11 +84,11 @@ Here are some examples of the algorithm running:
   <tr>
     <td>
     Normal example - Finding all codes
-     <img src="https://github.com/helenzina/LZW-Pixel-Compression/blob/main/normal.png" />
+     <img src="https://github.com/helenzina/LZW-Pixel-Compression/blob/main/normal.png" width="1500px" title="normal"/>
     </td>
     <td>
     Hard example - Occuring higher value code (Early Code Emission)
-     <img src="https://github.com/helenzina/LZW-Pixel-Compression/blob/main/hard.png" />
+     <img src="https://github.com/helenzina/LZW-Pixel-Compression/blob/main/hard.png" width="1500px" title="hard"/>
     </td>
 </tr>
 </table>
