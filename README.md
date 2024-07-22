@@ -18,7 +18,7 @@ This project was built with the following:
  ## About The Project
  
 <p align="center">
-<img src="https://github.com/helenzina/LZW-Pixel-Compression/run.gif"  title="run"/>
+<img src="https://github.com/helenzina/LZW-Pixel-Compression/blob/main/run.gif"  title="run"/>
 </p>
 
 LZW compression is a method to reduce the size of Tag Image File Format (TIFF) or Graphics Interchange Format (GIF) files. It is a table-based lookup algorithm to remove duplicate data and compress an original file into a smaller file. LZW compression is also suitable for compressing text and PDF files. 
@@ -84,11 +84,11 @@ Here are some examples of the algorithm running:
   <tr>
     <td>
     Normal example - Finding all codes
-    <img src="https://github.com/helenzina/LZW-Pixel-Compression/normal.png" />
+     <img src="https://github.com/helenzina/LZW-Pixel-Compression/blob/main/normal.png" />
     </td>
     <td>
     Hard example - Occuring higher value code (Early Code Emission)
-    <img src="https://github.com/helenzina/LZW-Pixel-Compression/hard.png" />
+     <img src="https://github.com/helenzina/LZW-Pixel-Compression/blob/main/hard.png" />
     </td>
 </tr>
 </table>
