@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="LZWcomp:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/LZWcomp_jar</output-path>
-    <root id="archive" name="LZWcomp.jar">
-      <element id="module-output" name="LZWcomp" />
-    </root>
-  </artifact>
-</component>
