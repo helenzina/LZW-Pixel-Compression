@@ -1,0 +1,1 @@
+If it doesn't run, place the folder "jdk-21" into the Java's folder: "C:\Program Files\Java"
