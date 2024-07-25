@@ -71,7 +71,7 @@ To run LZW Compression, follow these steps:
 
 ## Troubleshooting
 
-This project was compiled using JDK 21. If it doesn't run, place the folder <a href="https://drive.google.com/open?id=1dET8y46h3MsdtlYhXiMdfxxt5jR14l5L&usp=drive_fs">jdk-21</a> into the Java's folder:
+This project was compiled using JDK 21. If it doesn't run, place the folder <a href="https://drive.google.com/open?id=1dET8y46h3MsdtlYhXiMdfxxt5jR14l5L&usp=drive_fs">jdk-21</a> into the Java directory:
    ```sh
    C:\Program Files\Java
    ```
