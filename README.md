@@ -75,6 +75,10 @@ This project was compiled using JDK 21. If it doesn't run, place the folder <a h
    ```sh
    C:\Program Files\Java
    ```
+If it still doesn't work, then you need to add the path of the JDK in the enviromental variables. E.g. **JAVA_HOME**:
+   ```sh
+   C:\Program Files\Java\jdk-21
+   ```
 
  ## Usage
 
